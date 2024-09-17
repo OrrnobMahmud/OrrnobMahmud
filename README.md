@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Orrnob Mahmud! 👋</h1>
-<h3 align="center">Full time SEO & part time Coder, thanks Chatgpt..</h3>
+<h3 align="center">Full time SEO & part time Coder, thanks chatgpt..😝</h3>
 
 <p align="center">
   <a href="https://github.com/orrnobmahmud"><img src="https://komarev.com/ghpvc/?username=orrnobmahmud&style=flat-square" alt="Profile views"/></a>
