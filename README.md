@@ -14,7 +14,7 @@
 - [https://orrnobmahmud.com/](https://orrnobmahmud.com/)
 
 ### 📫 How to reach me:
-- **orrnobmahmud@gmail.co**
+- **orrnobmahmud@gmail.com**
 
 ### 🤝 Connect with me:
 <p align="left">
